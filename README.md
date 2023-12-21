@@ -1,4 +1,4 @@
-# Swapping-two-values
+# EX-01: Swapping-two-values
 
 ## AIM:
 To write a python program for swapping of two values
@@ -31,15 +31,13 @@ temp=y
 y=x
 x=temp
 print("Swapped values are:",x,y)
-
 ```
 
 ## OUTPUT:
-
-![Alt text](<swap output.png>)
+![image](https://github.com/KeerthanaaSaravanan/Swapping-two-values/assets/145742596/e6e61beb-6496-49e5-b722-8cc27b1672a0)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
